@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1ea25ab-4a7c-446e-8439-0386d67ecefe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/ONL_PYT_S_13_podstawy_pythona-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/01_Algorytmy_i_schematy_blokowe/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/01_Algorytmy_i_schematy_blokowe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/02_Zmienne/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/02_Zmienne/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/03_Powtorzenie_z_preworku/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/03_Powtorzenie_z_preworku/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/01_Zadanie_1/exercise_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/02_Zadanie_2/exercise_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/03_Zadanie_3/exercise_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/04_Zadanie_4/exercise_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/05_Zadanie_5/exercise_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/06_Zadanie_6/exercise_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/07_Zadanie_7/exercise_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/04_Funkcje/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/01_Dzien_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/02_Dzien_1_-_praca_domowa/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/02_Dzien_1_-_praca_domowa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/01_Listy_i_krotki/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/01_Listy_i_krotki/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/02_Lancuchy_tekstowe/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/02_Lancuchy_tekstowe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/03_Zadanie_3/03zadania4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/03_Zadanie_3/03zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/03_Zadanie_3/03zadanie5(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/03_Zadanie_3/coderslab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/03_Zadanie_3/math_tools/03zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/03_Zadanie_3/math_tools/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/03_Moduly_i_importowanie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/03_Dzien_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/04_Dzien_2_-_praca_domowa/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/04_Dzien_2_-_praca_domowa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/01_Virtualenv/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/01_Virtualenv/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/templates/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/templates/nowy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/templates/zadanie9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/warsztat_zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/zadanie7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/02_Zadanie_2/zadanie9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/02_Obsluga_wyjatkow/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/05_Dzien_3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/06_Dzien_3_-_praca_domowa/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/06_Dzien_3_-_praca_domowa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/07_Dzien_4/01_Flask/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/07_Dzien_4/01_Flask/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/07_Dzien_4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/08_Dzien_4_-_praca_domowa/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/08_Dzien_4_-_praca_domowa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/answer1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/answer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/answer3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/answer4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/answer5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/answer6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/01_egzamin/exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/09_Egzamin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/.config/exercises.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/answer1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/answer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/answer3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/answer4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/answer5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/answer6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/01_Zadanie_1/exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/10_Egzamin_-_rozwiazanie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/zadania CodersLab/03zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/ONL_PYT_S_13_podstawy_pythona-main/zadania CodersLab/exercise_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Python-Cheat-Sheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/warsztat - praca własna flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/warszat zad1 zgadlicz.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NSQVGLKEK8XVK8mQKgoTBWY2OS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/koko/Pulpit/warsztat - praca własna flask&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="warszat zad1 zgadlicz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="warsztat - praca własna flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/warszat zad1 zgadlicz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.warszat zad1 zgadlicz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1ea25ab-4a7c-446e-8439-0386d67ecefe" name="Changes" comment="" />
+      <created>1679655025679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679655025679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
